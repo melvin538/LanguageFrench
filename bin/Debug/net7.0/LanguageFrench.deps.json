@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "LanguageFrench/1.0.0": {
+        "runtime": {
+          "LanguageFrench.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LanguageFrench/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

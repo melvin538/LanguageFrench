@@ -1,0 +1,15 @@
+C:\LanguageFrench\bin\Debug\net7.0\LanguageFrench.exe
+C:\LanguageFrench\bin\Debug\net7.0\LanguageFrench.deps.json
+C:\LanguageFrench\bin\Debug\net7.0\LanguageFrench.runtimeconfig.json
+C:\LanguageFrench\bin\Debug\net7.0\LanguageFrench.dll
+C:\LanguageFrench\bin\Debug\net7.0\LanguageFrench.pdb
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.csproj.AssemblyReference.cache
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.GeneratedMSBuildEditorConfig.editorconfig
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.AssemblyInfoInputs.cache
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.AssemblyInfo.cs
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.csproj.CoreCompileInputs.cache
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.dll
+C:\LanguageFrench\obj\Debug\net7.0\refint\LanguageFrench.dll
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.pdb
+C:\LanguageFrench\obj\Debug\net7.0\LanguageFrench.genruntimeconfig.cache
+C:\LanguageFrench\obj\Debug\net7.0\ref\LanguageFrench.dll
