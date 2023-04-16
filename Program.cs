@@ -16,7 +16,7 @@ class Program
         Conjugate(verb, "ils/elles", "ent");
         
         Console.WriteLine("Indicatif passé composé:");
-        Conjugate(verb, "j'", "ai ", "e");
+        Conjugate(verb, "j'", "ai ", "é");
         Conjugate(verb, "tu", "as ", "es");
         Conjugate(verb, "il/elle/on", "a ", "e");
         Conjugate(verb, "nous", "avons ", "é");
